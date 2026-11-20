@@ -1,0 +1,16 @@
+{
+  "name": "gerencia-clientes-relay",
+  "version": "1.0.0",
+  "description": "Micro-relay seguro para a API do Gerencia Clientes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
